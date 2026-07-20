@@ -64,3 +64,16 @@ const tung = {
   currentFocus:
     "Building practical AI projects with reproducible training pipelines, clear evaluation metrics, and deployable APIs."
 };
+```
+
+### Selected Projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Viettel AI Race 2026 - 3DGS](https://github.com/trickerbp/Viettel-AI-Race-3DGS) | Multi-scene 3D Gaussian Splatting pipeline with holdout selection, camera-pose rendering, automated validation, and a current score of 70.52060/100 (rank pending). |
+| [ViTHSD Baseline](https://github.com/trickerbp/ViTHSD-Baseline) | Leakage-aware data audit and reproducible public baseline for five-target Vietnamese hate-speech classification; ongoing thesis models are intentionally withheld. |
+| [Tomato Leaf Disease](https://github.com/trickerbp/TomatoLeafDisease) | Reproducible transfer-learning pipeline for 10 classes and 19,178 images; 97.18% test accuracy and 96.98% macro F1. |
+
+I am currently looking for an AI Engineering internship where I can contribute
+to model development, reliable evaluation, data pipelines, and production
+integration.
